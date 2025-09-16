@@ -4,14 +4,17 @@ body {
 }
 
 .box {
+   /* border: 2px solid white; */
   margin-top: 6rem;
 }
 
 .nav-box {
+   /* border: 2px solid white; */
   padding: 40px;
 }
 
 .nav-bar {
+   /* border: 2px solid white; */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -51,6 +54,7 @@ body {
   gap: 3rem;
 }
 .nav-list {
+   /* border: 2px solid white; */
   text-decoration: none;
   color: #dedddd;
   font-weight: 500;
@@ -58,6 +62,7 @@ body {
   transition: 0.3s ease;
 }
 .nav-list:hover {
+   /* border: 2px solid white; */
   color: #148cae;
   background-color: #dedddd;
   cursor: pointer;
@@ -68,6 +73,7 @@ body {
 
 /* Button */
 .btn {
+  /* border: 2px solid white; */
   color: #fdf9f9;
   font-size: 16px;
   background-color: #107a98;
