@@ -41,7 +41,7 @@ body {
 /* Logo */
 .nav-bar h1 {
   color: #fff;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 700;
   cursor: pointer;
   text-shadow: 2px 2px 4px #000000;
@@ -58,7 +58,7 @@ body {
   text-decoration: none;
   color: #dedddd;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 18px;
   transition: 0.3s ease;
 }
 .nav-list:hover {
